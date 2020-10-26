@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="51" time="0.150083">
+<testcase classname="To test parameterised scenario" name="_2" time="0.121534">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_3" time="0.000541">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_4" time="0.000481">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_5" time="0.000412">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_6" time="0.000669">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_7" time="0.0007">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_8" time="0.000662">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_9" time="0.000508">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_10" time="0.000479">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_11" time="0.000405">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_12" time="0.000343">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_13" time="0.000501">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_14" time="0.000976">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_15" time="0.000842">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_16" time="0.000719">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_17" time="0.002983">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_18" time="0.000852">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_19" time="0.000797">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_20" time="0.000619">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_21" time="0.000383">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_22" time="0.000427">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_23" time="0.000788">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_24" time="0.000445">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_25" time="0.000512">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_26" time="0.000456">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_27" time="0.000426">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_28" time="0.000486">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_29" time="0.001006">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_30" time="0.000607">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_31" time="0.000608">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_32" time="0.000456">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_33" time="0.000419">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_34" time="0.000406">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_35" time="0.00042">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_36" time="0.000421">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_37" time="0.000374">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_38" time="0.000456">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_39" time="0.000254">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_40" time="0.000487">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_41" time="0.000437">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_42" time="0.000633">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_43" time="0.000462">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_44" time="0.000549">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_45" time="0.0003">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_46" time="0.000253">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_47" time="0.000245">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_48" time="0.000376">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_49" time="0.000372">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_50" time="0.00034">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_51" time="0.000731">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To test parameterised scenario" name="_52" time="0.000525">
+<system-out><![CDATA[Given user login to application.............................................passed
+When user logged in valid "Admin" and "Admin123"............................passed
+And user than selects Day and Month.........................................passed
+Then user able to view home page successfully...............................passed
+]]></system-out>
+</testcase>
+</testsuite>
